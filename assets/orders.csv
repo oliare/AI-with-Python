@@ -1,0 +1,51 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate
+1001,Anna Petrova,Laptop X200,Electronics,1,850.0,2024-10-21
+1002,John Smith,Coffee Maker B12,Home Appliances,2,55.0,2024-11-01
+1003,Liu Wei,Sports Watch X,Accessories,1,120.0,2024-09-10
+1004,Olena Ivanenko,Smartphone Z5,Electronics,1,670.0,2024-12-05
+1005,Kate Williams,Notebook Set A5,Stationery,3,7.5,2024-11-15
+1006,Ihor Hnatyuk,Wireless Mouse M3,Electronics,2,25.0,2024-08-23
+1007,Maria Lopez,Gym Mat Pro,Fitness,1,30.0,2024-10-10
+1008,Daniel Novak,Vacuum Cleaner V9,Home Appliances,1,150.0,2024-07-19
+1009,Natalie Bond,Wall Calendar 2025,Stationery,4,4.2,2024-12-12
+1010,Bob Johnson,Blender Mix500,Home Appliances,1,80.0,2024-09-09
+1011,Alex Kim,Desk Lamp Lighto,Home Decor,2,18.0,2024-10-03
+1012,Yuliia Rudenko,Headphones S2,Electronics,1,65.0,2024-11-29
+1013,Sebastian Cruz,Running Shoes R1,Fitness,1,90.0,2024-08-15
+1014,Emma Watson,Water Bottle H2O,Fitness,3,12.0,2024-10-20
+1015,Maksym Shevchenko,USB Flash 64GB,Electronics,5,8.0,2024-12-01
+1016,Clara Braun,Thermal Mug B+,Accessories,2,14.0,2024-07-27
+1017,Lucas Dubois,Paint Set Deluxe,Stationery,1,22.0,2024-09-30
+1018,Polina Morozova,Ceramic Vase N9,Home Decor,1,35.0,2024-11-07
+1019,Jack Lee,Gaming Keyboard G1,Electronics,1,110.0,2024-12-15
+1020,Alina Shulha,Cushion Cover Blue,Home Decor,3,9.5,2024-08-12
+1021,Oksana Petriv,Treadmill T5,Fitness,1,950.0,2024-07-04
+1022,Victor Park,Monitor 24HD,Electronics,1,185.0,2024-11-18
+1023,Tamara Fedorova,Bath Towels Set,Home Decor,2,28.0,2024-10-26
+1024,Martin Reiss,Desk Organizer Pro,Stationery,1,16.0,2024-09-02
+1025,Sophie Nguyen,Wireless Charger Q,Electronics,2,20.0,2024-11-10
+1026,Stepan Kravets,Notebook Pro15,Electronics,1,1200.0,2024-12-20
+1027,Isabella Rossi,Air Fryer S2,Home Appliances,1,130.0,2024-10-15
+1028,Noah Wilson,Sport Shorts M,Fitness,2,25.0,2024-07-25
+1029,Andrii Melnyk,Bluetooth Speaker A1,Electronics,1,48.0,2024-09-11
+1030,Mila Davies,Reed Diffuser Zen,Home Decor,1,19.0,2024-08-28
+1031,David Hernandez,Fitness Tracker F1,Fitness,1,95.0,2024-09-14
+1032,Nina Khomenko,Wall Art Abstract,Home Decor,1,42.0,2024-10-19
+1033,George White,Mechanical Pencil X,Stationery,3,5.0,2024-12-02
+1034,Olga Yakovleva,Desk Chair Comfort,Home Decor,1,210.0,2024-09-17
+1035,Liam Murphy,Smartwatch B10,Electronics,1,155.0,2024-10-01
+1036,Zhanna Kovalenko,Sticky Notes Set,Stationery,5,3.0,2024-11-03
+1037,Peter Svensson,Power Bank 10000,Electronics,2,22.0,2024-08-14
+1038,Daryna Lutsyk,Digital Thermometer,Home Appliances,1,19.5,2024-07-30
+1039,Emily Carter,Resistance Bands,Fitness,3,10.0,2024-10-04
+1040,Taras Mazur,Coffee Grinder X2,Home Appliances,1,40.0,2024-09-26
+1041,Marta Danylko,Laptop Backpack,Accessories,1,33.0,2024-08-19
+1042,Yurii Vovk,Wall Clock Wood,Home Decor,1,25.0,2024-07-23
+1043,Anna Müller,Folding Table S,Home Decor,1,60.0,2024-12-08
+1044,Jacob Becker,LED Desk Light,Home Decor,1,18.0,2024-09-20
+1045,Oleh Tkachenko,Printer Ink Pack,Stationery,2,28.0,2024-11-13
+1046,Tetiana Bilous,Notebook Set B5,Stationery,4,9.0,2024-10-22
+1047,Mykhailo Dudnyk,Electric Kettle X,Home Appliances,1,35.0,2024-08-05
+1048,Ella Hughes,Phone Tripod Mini,Accessories,1,11.0,2024-07-18
+1049,Yehor Shapoval,Table Fan Mini,Home Appliances,1,27.0,2024-07-06
+1050,Sasha Verbytska,Photo Frame Set,Home Decor,2,15.0,2024-09-07
