@@ -1,0 +1,146 @@
+[
+    {
+        "original": "Всіх вітаю! Брав даний парфум за інтуїцією Шикарний бренд, дуже приємний запах, тримається 4-5 годин. Ціна з знижкою супер! Тому взяв максимальний об'єм (;-)) Доставка від MAKEUP на висоті!!! Бажаю всім вдалих покупок!!!",
+        "tokens": [
+            "makeup"
+        ],
+        "filtered": [
+            "makeup"
+        ],
+        "stemmed": [
+            "makeup"
+        ],
+        "lemmatized": [
+            "makeup"
+        ],
+        "sentiment": "positive"
+    },
+    {
+        "original": "То любов😍, брала чоловіку і зараз навіть не уявляю його з іншим ароматом, стійкі і довго тримаються і на тілі і на одягу, буду брати ще однозначно",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Дуже вдячна за чудовий сервіс. А ще більше дякую за емоції моїх дітей за отримані парфуми. Це дуже зворушливо, коли аромат припав до душі.",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Первый раз вижу чтобы распылитель на флаконе фирменных парфумов не был плотно закручен и отвинчивался руками, так что при открытии коробки чуть не пролил на себя содержимое флакона",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Замовляла туалетну воду на подарунок для чоловіка Доставка була швидка , щей пробника твердих парфумів поклали Аромат бомбезний , стійкий Дякую мейкап)",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Це дійсно чудовий аромат, насичений, стійкий шлейфовий, з особливою ноткою Armani, який не зможеш сплутати з іншими, і який ніколи не набридне. Останні 15 років завжди є в арсеналі чоловіка. Доставка Makeup , як завжди на висоті. Дякую.",
+        "tokens": [
+            "armani",
+            "makeup"
+        ],
+        "filtered": [
+            "armani",
+            "makeup"
+        ],
+        "stemmed": [
+            "armani",
+            "makeup"
+        ],
+        "lemmatized": [
+            "armani",
+            "makeup"
+        ],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Гарний аромат, стійкі.",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Стійкий та приємний аромат.",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Хороший аромат. Только для зимы. Стойкий, сладкий. Пахнет дорого только зимой.",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Чоловікові сподобався....",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "По отзывам заказала на подарок мужу. Очень приятный аромат. Лёгкий. Стойкий",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Даже не раздумывая купила. Оно того стоит! Armani это Armani!",
+        "tokens": [
+            "armani",
+            "armani"
+        ],
+        "filtered": [
+            "armani",
+            "armani"
+        ],
+        "stemmed": [
+            "armani",
+            "armani"
+        ],
+        "lemmatized": [
+            "armani",
+            "armani"
+        ],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Дуже крутий аромат. Купувала на подарунок чоловіку. Він у захваті. Тепер цей аромат його фаворит.",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    },
+    {
+        "original": "Продукт отличный, рекомендую. Оформление, доставка - быстро, качественно, удобно.",
+        "tokens": [],
+        "filtered": [],
+        "stemmed": [],
+        "lemmatized": [],
+        "sentiment": "neutral"
+    }
+]
